@@ -1,0 +1,3 @@
+[submodule "acc-core-plugins"]
+	path = acc-core-plugins
+	url = git@github.com:pig-nighisar/acc-core-plugins.git
